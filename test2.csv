@@ -39,7 +39,6 @@ PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 929,3,"Cacic, Miss. Manda",female,21,0,0,315087,8.6625,,S
 930,3,"Sap, Mr. Julius",male,25,0,0,345768,9.5,,S
 931,3,"Hee, Mr. Ling",male,,0,0,1601,56.4958,,S
-932,3,"Karun, Mr. Franz",male,39,0,1,349256,13.4167,,C
 933,1,"Franklin, Mr. Thomas Parham",male,,0,0,113778,26.55,D34,S
 934,3,"Goldsmith, Mr. Nathan",male,41,0,0,SOTON/O.Q. 3101263,7.85,,S
 935,2,"Corbett, Mrs. Walter H (Irene Colvin)",female,30,0,0,237249,13,,S
